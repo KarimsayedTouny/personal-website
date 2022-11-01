@@ -238,7 +238,7 @@ nav ul li a{
     background-color: var(--bgcolor2);
     width: 350px;
     height: 350px;
-    padding: 5rem 2rem;
+    padding: 2rem 2rem;
     border-radius: 20px;
     box-shadow: 0 1rem 2rem rgba(0, 0, 0, .25);
     transition: transform 1s ease;
@@ -283,7 +283,7 @@ nav ul li a{
     justify-content: space-around;
 }
 .work .container-work{
-    width: 90%;
+    width: 100%;
 }
 .content-work{
     display: flex;
@@ -296,7 +296,7 @@ nav ul li a{
 
 .work1 img{
     width: 400px;
-    margin: 15%;
+    /* margin: 14%; */
     border-radius: 10px;
     margin: 0 3rem 3rem 0;
     box-shadow: 0 1rem 2rem rgba(0, 0, 0, .25);
