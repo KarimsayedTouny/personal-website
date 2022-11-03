@@ -279,7 +279,7 @@ nav ul li a{
     background-color: var(--bgcolor2);
     padding: 3.5rem var(--padding);
     display:flex;
-    align-items: flex-start;
+    align-items: center;
     justify-content: space-around;
 }
 .work .container-work{
